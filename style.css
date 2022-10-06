@@ -1,0 +1,27 @@
+body{
+    margin: 0 auto;
+}
+.title-main{
+    text-align: center;
+}
+
+.color-blue{
+    color: blue;
+}
+
+.background-blue{
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.sublinhado{
+    text-decoration-line: underline;
+}
+
+.background-black{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+}
